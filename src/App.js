@@ -29,7 +29,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1 className="App-title">Weather App</h1>
+      <h1 className="app-title">WEATHER APP</h1>
       <div className="search-container">
         <input
           type="text"
